@@ -1,0 +1,19 @@
+{
+  "name": "istvezba5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/urospetrovic34/istVezba5.git"
+  },
+  "author": "Uros Petrovic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/urospetrovic34/istVezba5/issues"
+  },
+  "homepage": "https://github.com/urospetrovic34/istVezba5#readme"
+}
